@@ -5,7 +5,7 @@ Features:
 ✅ Memory Dump (D) – Displays all non-zero memory addresses.
 ✅ Reset Memory (R) – Clears the memory by setting all values to zero.
 ✅ Save & Load Memory (S filename / L filename) – Store and retrieve memory states from files.
-✅ Comment Support (*) – Ignore comment lines for better readability.
+✅ Comment/print Support (*) – Ignore comment lines for better readability/ Prints the command line.
 ✅ Exit Command (X) – Stops execution.
 
 Enter commands to modify memory:
