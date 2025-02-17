@@ -36,7 +36,7 @@ int main() {
     while (fgets(line, sizeof(line), stdin)) {
         if (line[0] == 'X') break;  // Exit condition
         if (line[0] == '*') {       // Comment line
-            printf("Comment: %s", line);
+            printf("Comment: %s", line+1);
             continue;
         }
         
